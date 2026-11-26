@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="title1">Чел чето в небо смотрит</string>
+    <string name="artist1">Яндекс браузер</string>
+    <string name="year1">2026</string>
+    <string name="title2">В глуши леса</string>
+    <string name="artist2">гугл хром</string>
+    <string name="year2">2026</string>
+    <string name="title3">Цветочки</string>
+    <string name="artist3">браузер</string>
+    <string name="year3">2026</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
